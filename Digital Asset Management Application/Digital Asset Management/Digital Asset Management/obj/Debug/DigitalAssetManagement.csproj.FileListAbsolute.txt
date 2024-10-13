@@ -1,7 +1,0 @@
-C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\Digital Asset Management Application\Digital Asset Management\Digital Asset Management\obj\Debug\DigitalAssetManagement.csproj.AssemblyReference.cache
-C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\Digital Asset Management Application\Digital Asset Management\Digital Asset Management\obj\Debug\DigitalAssetManagement.csproj.CoreCompileInputs.cache
-C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\Digital Asset Management Application\Digital Asset Management\Digital Asset Management\obj\Debug\Digital Asset Management.exe
-C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\Digital Asset Management Application\Digital Asset Management\Digital Asset Management\obj\Debug\Digital Asset Management.pdb
-C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\Digital Asset Management Application\Digital Asset Management\Digital Asset Management\bin\Debug\Digital Asset Management.exe.config
-C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\Digital Asset Management Application\Digital Asset Management\Digital Asset Management\bin\Debug\Digital Asset Management.exe
-C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\Digital Asset Management Application\Digital Asset Management\Digital Asset Management\bin\Debug\Digital Asset Management.pdb
