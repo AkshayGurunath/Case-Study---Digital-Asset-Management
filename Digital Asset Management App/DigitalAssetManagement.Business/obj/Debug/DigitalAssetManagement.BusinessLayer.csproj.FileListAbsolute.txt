@@ -1,0 +1,13 @@
+C:\Case Study\DigitalAssetManagement.Business\bin\Debug\DigitalAssetManagement.Business.dll
+C:\Case Study\DigitalAssetManagement.Business\bin\Debug\DigitalAssetManagement.Business.pdb
+C:\Case Study\DigitalAssetManagement.Business\bin\Debug\DigitalAssetManagement.Entity.dll
+C:\Case Study\DigitalAssetManagement.Business\bin\Debug\DigitalAssetManagement.Exceptions.dll
+C:\Case Study\DigitalAssetManagement.Business\bin\Debug\DigitalAssetManagement.Util.dll
+C:\Case Study\DigitalAssetManagement.Business\bin\Debug\DigitalAssetManagement.Entity.pdb
+C:\Case Study\DigitalAssetManagement.Business\bin\Debug\DigitalAssetManagement.Exceptions.pdb
+C:\Case Study\DigitalAssetManagement.Business\bin\Debug\DigitalAssetManagement.Util.pdb
+C:\Case Study\DigitalAssetManagement.Business\obj\Debug\DigitalAssetManagement.BusinessLayer.csproj.AssemblyReference.cache
+C:\Case Study\DigitalAssetManagement.Business\obj\Debug\DigitalAssetManagement.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Case Study\DigitalAssetManagement.Business\obj\Debug\DigitalA.CC7F2850.Up2Date
+C:\Case Study\DigitalAssetManagement.Business\obj\Debug\DigitalAssetManagement.Business.dll
+C:\Case Study\DigitalAssetManagement.Business\obj\Debug\DigitalAssetManagement.Business.pdb
