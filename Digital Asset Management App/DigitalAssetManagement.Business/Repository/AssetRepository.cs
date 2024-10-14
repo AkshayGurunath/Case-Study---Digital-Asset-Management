@@ -55,63 +55,7 @@ namespace DigitalAssetManagement.Business.Repository
             }
         }
 
-        /*// Method to get the next available asset IDtry to fix bug
-                private int GetNextAssetId()
-                {
-                    using (SqlConnection connection = DbUtil.GetDBConnection())
-                    {
-                        try
-                        {
-                            connection.Open();
-                            string query = "SELECT ISNULL(MAX(asset_id), 0) + 1 FROM Assets";
-                            SqlCommand cmd = new SqlCommand(query, connection);
-                            return (int)cmd.ExecuteScalar();
-                        }
-                        catch (Exception ex)
-                        {
-                            Console.WriteLine("Error while fetching the next asset ID: " + ex.Message);
-                            return 1; // Default to 1 if there is an error
-                        }
-                    }
-                }
-
-                // Method to add a new asset to the database
-                public bool AddAsset(Asset asset)
-                {
-                    // Ensure asset_id is set before adding
-                    asset.AssetId = GetNextAssetId(); // Set the next available asset_id
-
-                    using (SqlConnection connection = DbUtil.GetDBConnection())
-                    {
-                        try
-                        {
-                            connection.Open();
-                            string query = "INSERT INTO assets (asset_id, name, type, serial_number, purchase_date, location, status, owner_id) VALUES (@asset_id, @name, @type, @serial_number, @purchase_date, @location, @status, @owner_id)";
-                            using (SqlCommand cmd = new SqlCommand(query, connection))
-                            {
-                                cmd.Parameters.AddWithValue("@asset_id", asset.AssetId);
-                                cmd.Parameters.AddWithValue("@name", asset.Name);
-                                cmd.Parameters.AddWithValue("@type", asset.Type);
-                                cmd.Parameters.AddWithValue("@serial_number", asset.SerialNumber);
-                                cmd.Parameters.AddWithValue("@purchase_date", asset.PurchaseDate);
-                                cmd.Parameters.AddWithValue("@location", asset.Location);
-                                cmd.Parameters.AddWithValue("@status", asset.Status);
-                                cmd.Parameters.AddWithValue("@owner_id", asset.OwnerId);
-
-                                connection.Open();
-                                int result = cmd.ExecuteNonQuery();
-                                return result > 0;
-
-                            }
-                        }
-
-                        catch (Exception ex)
-                        {
-                            Console.WriteLine("Error while adding asset: " + ex.Message);
-                            return false;
-                        }
-                    }
-                }*/
+        
         // Method to update an existing asset in the database
         public bool UpdateAsset(Asset asset)
         {
