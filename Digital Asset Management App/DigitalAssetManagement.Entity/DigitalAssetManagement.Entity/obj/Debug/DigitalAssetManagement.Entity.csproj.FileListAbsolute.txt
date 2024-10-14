@@ -1,0 +1,6 @@
+C:\Case Study\DigitalAssetManagement.Entity\DigitalAssetManagement.Entity\bin\Debug\DigitalAssetManagement.Entity.dll
+C:\Case Study\DigitalAssetManagement.Entity\DigitalAssetManagement.Entity\bin\Debug\DigitalAssetManagement.Entity.pdb
+C:\Case Study\DigitalAssetManagement.Entity\DigitalAssetManagement.Entity\obj\Debug\DigitalAssetManagement.Entity.csproj.AssemblyReference.cache
+C:\Case Study\DigitalAssetManagement.Entity\DigitalAssetManagement.Entity\obj\Debug\DigitalAssetManagement.Entity.csproj.CoreCompileInputs.cache
+C:\Case Study\DigitalAssetManagement.Entity\DigitalAssetManagement.Entity\obj\Debug\DigitalAssetManagement.Entity.dll
+C:\Case Study\DigitalAssetManagement.Entity\DigitalAssetManagement.Entity\obj\Debug\DigitalAssetManagement.Entity.pdb

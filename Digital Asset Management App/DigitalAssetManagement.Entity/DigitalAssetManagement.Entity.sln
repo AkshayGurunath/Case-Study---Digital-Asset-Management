@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalAssetManagement.Entity", "DigitalAssetManagement.Entity\DigitalAssetManagement.Entity.csproj", "{0732890B-6FC0-4B12-8712-18E7CE076961}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalAssetManagement.BusinessLayer", "..\DigitalAssetManagement.Business\DigitalAssetManagement.BusinessLayer.csproj", "{F5E567B4-F37F-48E1-9870-945A1A798DF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalAssetManagement.Exceptions", "..\DigitalAssetManagement.Exceptions\DigitalAssetManagement.Exceptions.csproj", "{91CAB9AD-6117-4DBA-80F5-3EAAE9FF6E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalAssetManagement.Util", "..\DigitalAssetManagement.Util\DigitalAssetManagement.Util.csproj", "{00294148-27D5-41A1-8C54-2E94E73DA2F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalAssetManagement.UI", "..\DigitalAssetManagement.UI\DigitalAssetManagement.UI.csproj", "{69FC7C14-9328-439E-868A-6C0B1C13F2ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0732890B-6FC0-4B12-8712-18E7CE076961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0732890B-6FC0-4B12-8712-18E7CE076961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0732890B-6FC0-4B12-8712-18E7CE076961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0732890B-6FC0-4B12-8712-18E7CE076961}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5E567B4-F37F-48E1-9870-945A1A798DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E567B4-F37F-48E1-9870-945A1A798DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E567B4-F37F-48E1-9870-945A1A798DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E567B4-F37F-48E1-9870-945A1A798DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91CAB9AD-6117-4DBA-80F5-3EAAE9FF6E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91CAB9AD-6117-4DBA-80F5-3EAAE9FF6E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91CAB9AD-6117-4DBA-80F5-3EAAE9FF6E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91CAB9AD-6117-4DBA-80F5-3EAAE9FF6E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00294148-27D5-41A1-8C54-2E94E73DA2F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00294148-27D5-41A1-8C54-2E94E73DA2F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00294148-27D5-41A1-8C54-2E94E73DA2F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00294148-27D5-41A1-8C54-2E94E73DA2F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69FC7C14-9328-439E-868A-6C0B1C13F2ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69FC7C14-9328-439E-868A-6C0B1C13F2ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69FC7C14-9328-439E-868A-6C0B1C13F2ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69FC7C14-9328-439E-868A-6C0B1C13F2ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D2E0A63-48D8-4CFC-905C-CC63CEC797CD}
+	EndGlobalSection
+EndGlobal
