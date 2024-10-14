@@ -1,0 +1,6 @@
+C:\Case Study\DigitalAssetManagement.Exceptions\bin\Debug\DigitalAssetManagement.Exceptions.dll
+C:\Case Study\DigitalAssetManagement.Exceptions\bin\Debug\DigitalAssetManagement.Exceptions.pdb
+C:\Case Study\DigitalAssetManagement.Exceptions\obj\Debug\DigitalAssetManagement.Exceptions.csproj.AssemblyReference.cache
+C:\Case Study\DigitalAssetManagement.Exceptions\obj\Debug\DigitalAssetManagement.Exceptions.csproj.CoreCompileInputs.cache
+C:\Case Study\DigitalAssetManagement.Exceptions\obj\Debug\DigitalAssetManagement.Exceptions.dll
+C:\Case Study\DigitalAssetManagement.Exceptions\obj\Debug\DigitalAssetManagement.Exceptions.pdb
