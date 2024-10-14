@@ -1,0 +1,16 @@
+C:\Case Study\DigitalAssetManagement.UI\bin\Debug\DigitalAssetManagement.UI.exe.config
+C:\Case Study\DigitalAssetManagement.UI\bin\Debug\DigitalAssetManagement.UI.exe
+C:\Case Study\DigitalAssetManagement.UI\bin\Debug\DigitalAssetManagement.UI.pdb
+C:\Case Study\DigitalAssetManagement.UI\bin\Debug\DigitalAssetManagement.Business.dll
+C:\Case Study\DigitalAssetManagement.UI\bin\Debug\DigitalAssetManagement.Entity.dll
+C:\Case Study\DigitalAssetManagement.UI\bin\Debug\DigitalAssetManagement.Exceptions.dll
+C:\Case Study\DigitalAssetManagement.UI\bin\Debug\DigitalAssetManagement.Util.dll
+C:\Case Study\DigitalAssetManagement.UI\bin\Debug\DigitalAssetManagement.Business.pdb
+C:\Case Study\DigitalAssetManagement.UI\bin\Debug\DigitalAssetManagement.Entity.pdb
+C:\Case Study\DigitalAssetManagement.UI\bin\Debug\DigitalAssetManagement.Exceptions.pdb
+C:\Case Study\DigitalAssetManagement.UI\bin\Debug\DigitalAssetManagement.Util.pdb
+C:\Case Study\DigitalAssetManagement.UI\obj\Debug\DigitalAssetManagement.UI.csproj.AssemblyReference.cache
+C:\Case Study\DigitalAssetManagement.UI\obj\Debug\DigitalAssetManagement.UI.csproj.CoreCompileInputs.cache
+C:\Case Study\DigitalAssetManagement.UI\obj\Debug\DigitalA.F3C21331.Up2Date
+C:\Case Study\DigitalAssetManagement.UI\obj\Debug\DigitalAssetManagement.UI.exe
+C:\Case Study\DigitalAssetManagement.UI\obj\Debug\DigitalAssetManagement.UI.pdb
